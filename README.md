@@ -18,11 +18,10 @@ Currently working with:
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 
-Main studying project developed for Android with Flutter and Dart:
-[Acinema](https://github.com/Zewodec/acinema_flutter_project)
+Main studying project developed:
+ - for Android with Flutter and Dart: [Acinema](https://github.com/Zewodec/acinema_flutter_project)
 
-Main studying project developed for Android with Java:
-[Milia](https://github.com/Zewodec/Milia)
+ - for Android with Java: [Milia](https://github.com/Zewodec/Milia)
 
 
 

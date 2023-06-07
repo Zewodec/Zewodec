@@ -7,6 +7,28 @@
 ## My nickname _Zewodec_
 -->
 
+# Hi there 👋
+## My name is Adam
+
+Currently working with:
+
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+
+
+Main studying project developed for Android with Flutter and Dart:
+[Acinema](https://github.com/Zewodec/acinema_flutter_project)
+
+Main studying project developed for Android with Java:
+[Milia](https://github.com/Zewodec/Milia)
+
+
+
+
+Here you can support:
+
 <a href="https://www.buymeacoffee.com/zewodec"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a Normandy&emoji=🚀&slug=zewodec&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff" /></a>
 
 <!--

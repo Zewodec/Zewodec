@@ -38,13 +38,6 @@ Main studying project developed:
 
  - Laravel with php project: [Baby Malie Journal](https://github.com/Zewodec/baby-maile-journal-laravel)
 
-
-
-
-Here you can support:
-
-<a href="https://www.buymeacoffee.com/zewodec"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a Normandy&emoji=🚀&slug=zewodec&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff" /></a>
-
 <!--
 - 🔭 I’m currently working on **Bim-Bam** _(gaming project)_
 
